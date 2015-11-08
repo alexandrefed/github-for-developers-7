@@ -1,0 +1,4 @@
+ - [x] Alexandre Fedotov
+ - [x] Compiegne
+ - [x] Breakfast
+ - [x] Swimming
