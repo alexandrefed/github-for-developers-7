@@ -2,3 +2,4 @@
  - [x] Compiegne
  - [x] Breakfast
  - [x] Swimming
+ - [x] Blue
